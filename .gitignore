@@ -27,3 +27,6 @@ data/
 *.csv
 *.parquet
 *.feather
+
+# archive directory
+archive/

@@ -1,0 +1,12 @@
+pandas
+numpy
+pyarrow
+matplotlib
+seaborn
+adjustText
+beautifulsoup4
+lxml
+Unidecode
+playwright
+playwright-stealth
+jupyter
